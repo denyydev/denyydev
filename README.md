@@ -12,9 +12,9 @@ Currently:
 
 ## Featured project
 
-**ResumeCraft**  
+### ResumeCraft // Side project
 
-![alt text](image.png)
+<img src="./assets/resume_craft_cover.png" width="450" />
 
 ATS-friendly resume builder with clean typography and structured layouts,
 designed to be readable in under 10 seconds.
@@ -23,12 +23,12 @@ designed to be readable in under 10 seconds.
 
 PDF / DOCX • Minimal UI • Product-first UX
 
-→ https://github.com/denyydev/resume-builder
+[ResumeCraft](https://github.com/denyydev/resume-craft)
 
 
-### Frontend Interview Notes ⭐ Community project
+### Frontend Interview Notes // Community project
 
-![alt text](frontend_notes_cover.png)
+<img src="./assets/frontend_notes_cover.png" width="450" />
 
 Community-driven frontend knowledge base.
 Created to help developers understand fundamentals,
@@ -36,7 +36,7 @@ not to memorize interview answers.
 
 JavaScript • React • Browser internals • Performance
 
-→ https://github.com/denyydev/frontend-interview-notes
+[Frontend Interview Notes](https://github.com/denyydev/frontend-interview-notes)
 
 ## What I work on
 
