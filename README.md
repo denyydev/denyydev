@@ -12,7 +12,8 @@ Currently:
 
 ## Featured project
 
-### ResumeCraft // Side project
+### ResumeCraft ***Side project***
+
 
 <img src="./assets/resume_craft_cover.png" width="450" />
 
@@ -26,7 +27,8 @@ PDF / DOCX • Minimal UI • Product-first UX
 [ResumeCraft](https://github.com/denyydev/resume-craft)
 
 
-### Frontend Interview Notes // Community project
+### Frontend Interview Notes ***Community project***
+
 
 <img src="./assets/frontend_notes_cover.png" width="450" />
 
@@ -47,9 +49,10 @@ JavaScript • React • Browser internals • Performance
 ## Tech stack
 
 - **Frontend:** React, Next.js, TypeScript
-- **Styling:** Tailwind CSS
+- **Styling:** Tailwind CSS, Styled Components, CSS-in-JS
 - **State management:** Redux Toolkit, Zustand
 - **UI & UX:** component systems, accessibility, product thinking
+- **UI Libraries:** Ant Design, Material UI, shadcn/ui
 
 ## Approach
 
