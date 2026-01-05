@@ -1,19 +1,22 @@
-### Frontend Developer (React / Next.js)
+# Frontend Developer (React / Next.js)
 
 I design and build product interfaces with a strong focus on UX, structure,
 and long-term maintainability.
 Most of my work involves dashboards, admin panels, and e-commerce products
 with complex state and real users.
 
-Currently:
+**Currently:**
 
-- building data-heavy dashboards and admin panels
-- working on e-commerce interfaces and conversion-focused product flows
+- Building data-heavy dashboards and admin panels
+- Working on e-commerce interfaces and conversion-focused product flows
 
-## Featured project
+---
 
-### ResumeCraft ***Side project***
+## Featured Projects
 
+### ResumeCraft
+
+> **Side project**
 
 <img src="./assets/resume_craft_cover.png" width="450" />
 
@@ -22,13 +25,15 @@ designed to be readable in under 10 seconds.
 
 **Stack:** Next.js, TypeScript, Tailwind CSS, PDF generation
 
-PDF / DOCX • Minimal UI • Product-first UX
+**Features:** PDF / DOCX • Minimal UI • Product-first UX
 
-[ResumeCraft](https://github.com/denyydev/resume-craft)
+🔗 [View on GitHub](https://github.com/denyydev/resume-craft)
 
+---
 
-### Frontend Interview Notes ***Community project***
+### Frontend Interview Notes
 
+> **Community project**
 
 <img src="./assets/frontend_notes_cover.png" width="450" />
 
@@ -36,30 +41,40 @@ Community-driven frontend knowledge base.
 Created to help developers understand fundamentals,
 not to memorize interview answers.
 
-JavaScript • React • Browser internals • Performance
+**Topics:** JavaScript • React • Browser internals • Performance
 
-[Frontend Interview Notes](https://github.com/denyydev/frontend-interview-notes)
+🔗 [View on GitHub](https://github.com/denyydev/frontend-interview-notes)
 
-## What I work on
+---
 
-- Dashboards and analytics interfaces
-- Admin panels and internal tools
-- E-commerce frontends and product flows
+## What I Work On
 
-## Tech stack
+- **Dashboards and analytics interfaces**
+- **Admin panels and internal tools**
+- **E-commerce frontends and product flows**
 
-- **Frontend:** React, Next.js, TypeScript
-- **Styling:** Tailwind CSS, Styled Components, CSS-in-JS
-- **State management:** Redux Toolkit, Zustand
-- **UI & UX:** component systems, accessibility, product thinking
-- **UI Libraries:** Ant Design, Material UI, shadcn/ui
+---
+
+## Tech Stack
+
+| Category | Technologies |
+|----------|-------------|
+| **Frontend** | React, Next.js, TypeScript |
+| **Styling** | Tailwind CSS, Styled Components, CSS-in-JS |
+| **State Management** | Redux Toolkit, Zustand |
+| **UI & UX** | Component systems, accessibility, product thinking |
+| **UI Libraries** | Ant Design, Material UI, shadcn/ui |
+
+---
 
 ## Approach
 
 I prefer fewer features, clearer structure, and predictable behavior
 over visual noise. My goal is to reduce cognitive load, not add more UI.
 
+---
+
 ## Contact
 
-- Telegram: @denyydev
-- Email: denyspolehenky@gmail.com
+- **Telegram:** [@denyydev](https://t.me/denyydev)
+- **Email:** denyspolehenky@gmail.com
