@@ -7,7 +7,7 @@ with complex state and real users.
 
 **Currently:**
 
-- Building data-heavy dashboards and admin panels
+- Building data-heavy dashboards and internal tools used in production environments.
 - Working on e-commerce interfaces and conversion-focused product flows
 
 ---
@@ -16,12 +16,11 @@ with complex state and real users.
 
 ### ResumeCraft
 
-> **Side project**
+> **Personal product**
 
 <img src="./assets/resume_craft_cover.png" width="450" />
 
-ATS-friendly resume builder with clean typography and structured layouts,
-designed to be readable in under 10 seconds.
+Built to solve real hiring constraints around ATS parsing and recruiter scan time, with a focus on predictable layout rendering and PDF generation.
 
 **Stack:** Next.js, TypeScript, Tailwind CSS, PDF generation
 
@@ -57,13 +56,13 @@ not to memorize interview answers.
 
 ## Tech Stack
 
-| Category | Technologies |
-|----------|-------------|
-| **Frontend** | React, Next.js, TypeScript |
-| **Styling** | Tailwind CSS, Styled Components, CSS-in-JS |
-| **State Management** | Redux Toolkit, Zustand |
-| **UI & UX** | Component systems, accessibility, product thinking |
-| **UI Libraries** | Ant Design, Material UI, shadcn/ui |
+| Category             | Technologies                                       |
+| -------------------- | -------------------------------------------------- |
+| **Frontend**         | React, Next.js, TypeScript                         |
+| **Styling**          | Tailwind CSS, Styled Components, CSS-in-JS         |
+| **State Management** | Zustand (primary), Redux Toolkit                   |
+| **UI & UX**          | Component systems, accessibility, product thinking |
+| **UI Libraries**     | Ant Design, Material UI, shadcn/ui                 |
 
 ---
 
