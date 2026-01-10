@@ -14,9 +14,12 @@ with complex state and real users.
 
 ## Featured Projects
 
-### ResumeCraft
+### Resumify
 
 > **Personal product**
+
+-  [Live — resumify.space](https://resumify.space)
+-  [Source code](https://github.com/denyydev/resumify)
 
 <img src="./assets/resume_craft_cover.png" width="450" />
 
@@ -25,8 +28,6 @@ Built to solve real hiring constraints around ATS parsing and recruiter scan tim
 **Stack:** Next.js, TypeScript, Tailwind CSS, PDF generation
 
 **Features:** PDF / DOCX • Minimal UI • Product-first UX
-
-🔗 [View on GitHub](https://github.com/denyydev/resume-craft)
 
 ---
 
